@@ -3,5 +3,5 @@
 int main()
 {
   std::cout << "Product is working" << std::endl;
-  return 0;
+  return 1;
 }
